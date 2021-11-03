@@ -1,0 +1,6 @@
+spring:
+  jdbc:
+    data:
+      a: qwe
+      b: asd
+      c: zxc
